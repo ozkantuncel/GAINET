@@ -1,0 +1,1 @@
+# GAINET: Enhancing Drug-Drug Interaction Predictions Through Graph Neural Networks and Attention Mechanisms
