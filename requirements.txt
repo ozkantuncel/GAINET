@@ -1,0 +1,8 @@
+rdkit-pypi
+torch
+torch_geometric
+pandas
+numpy==1.23.5 
+matplotlib
+seaborn
+scikit-learn
