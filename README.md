@@ -1,10 +1,18 @@
 # GAINET: Enhancing Drug-Drug Interaction Predictions Through Graph Neural Networks and Attention Mechanisms
 
+- Das, Bihter, et al. **“GAINET: Enhancing Drug–Drug Interaction Predictions Through Graph Neural Networks and Attention Mechanisms.”** Chemometrics and Intelligent Laboratory Systems, vol. 259, 2025, p. 105337, https://doi.org/10.1016/j.chemolab.2025.105337.
+  
+- **Authors:** Bihter Das, Huseyin Alperen Dagdogen, Muhammed Onur Kaya, Ozkan Tuncel, Muhammed Samet Akgul, Resul Das
+
 ## Introduction
 
 **GAINET** is a graph-based neural network model designed to predict drug-drug interactions (DDIs). In modern healthcare, accurately predicting DDIs is crucial, especially in cases of polypharmacy where multiple medications are used simultaneously. GAINET leverages molecular graph representations and attention mechanisms to focus on critical features of drug structures and their relationships, leading to improved accuracy in DDI predictions.
 
 **Interpretability**: GAINET's attention mechanism allows for interpretable predictions by highlighting important molecular substructures. This feature makes it a valuable tool for safer drug development and treatment decisions. 
+
+Flowchart for Drug-Drug Interaction Prediction with GAINET:
+
+![flowchart-min](https://github.com/user-attachments/assets/6c5e89f9-b58e-4e2f-81f3-f09ba7b24938)
 
 ### Project Structure
 
